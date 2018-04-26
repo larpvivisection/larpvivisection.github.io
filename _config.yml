@@ -1,12 +1,12 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Larp vivisection
+description:    "Vivisecting larp concepts"
 
 url:            "https://chesterhow.github.io"
 
 # Author
 author:
-  name:         Chester How
+  name:         Grzegorz 'Ryn' Woźniczko
   url:          https://chester.how
   email:        chesterhow@gmail.com
 
