@@ -23,7 +23,7 @@ layout: default
   {{ content }}
 
 </div>
-{% include {{ page.title }}.html %}
+{% include _vid/{{ page.title }}.html %}
 <div class="pagination">
   {% if page.next.url %}
     <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
